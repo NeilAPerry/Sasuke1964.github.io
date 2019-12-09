@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>McKeown Group</title>
-    <link>http://example.org/</link>
+    <link>https://sasuke1964.github.io/</link>
     <description>Recent content on McKeown Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2019 10:10:27 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sasuke1964.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bruce Spang</title>
-      <link>http://example.org/profiles/bruce_spang/</link>
+      <link>https://sasuke1964.github.io/profiles/bruce_spang/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/bruce_spang/</guid>
+      <guid>https://sasuke1964.github.io/profiles/bruce_spang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catalin Voss</title>
-      <link>http://example.org/profiles/catalin_voss/</link>
+      <link>https://sasuke1964.github.io/profiles/catalin_voss/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/catalin_voss/</guid>
+      <guid>https://sasuke1964.github.io/profiles/catalin_voss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jenny Hong</title>
-      <link>http://example.org/profiles/jenny_hong/</link>
+      <link>https://sasuke1964.github.io/profiles/jenny_hong/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/jenny_hong/</guid>
+      <guid>https://sasuke1964.github.io/profiles/jenny_hong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://example.org/people/</link>
+      <link>https://sasuke1964.github.io/people/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/people/</guid>
+      <guid>https://sasuke1964.github.io/people/</guid>
       <description>Students:  Jenny Hong Research Interests: NLP
 Hobbies: Sports
 jyunhong@stanford.edu
@@ -60,20 +60,20 @@ bspang@stanford.edu</description>
     
     <item>
       <title>Projects</title>
-      <link>http://example.org/projects/</link>
+      <link>https://sasuke1964.github.io/projects/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/projects/</guid>
+      <guid>https://sasuke1964.github.io/projects/</guid>
       <description>OpenFlow OpenFlow is an open standard designed to greatly enhance networks’ flexibility. We are using OpenFlow to explore ways to safely conduct networking research in production networks, develop mobility managers for today’s increasingly mobile life, and even save power in energy-hungry data center networks.
     POMI POMI seeks to break down barriers to a truly programmable and open mobile Internet of tomorrow. POMI is a multi-group project, and our contribution is a flexible networking substrate.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications_date/</link>
+      <link>https://sasuke1964.github.io/publications_date/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/publications_date/</guid>
+      <guid>https://sasuke1964.github.io/publications_date/</guid>
       <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
 Broadly speaking, the categories near the top of the list are of more current interest.
 Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
@@ -81,10 +81,10 @@ Inevitably, the categorization is not perfect. Some papers belong in more than o
     
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications_topic/</link>
+      <link>https://sasuke1964.github.io/publications_topic/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/publications_topic/</guid>
+      <guid>https://sasuke1964.github.io/publications_topic/</guid>
       <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
 Broadly speaking, the categories near the top of the list are of more current interest.
 Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
@@ -92,10 +92,10 @@ Inevitably, the categorization is not perfect. Some papers belong in more than o
     
     <item>
       <title>Publications</title>
-      <link>http://example.org/publications_type/</link>
+      <link>https://sasuke1964.github.io/publications_type/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/publications_type/</guid>
+      <guid>https://sasuke1964.github.io/publications_type/</guid>
       <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
 Broadly speaking, the categories near the top of the list are of more current interest.
 Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
@@ -103,91 +103,91 @@ Inevitably, the categorization is not perfect. Some papers belong in more than o
     
     <item>
       <title>Renata Cruz Teizeira</title>
-      <link>http://example.org/profiles/renata_cruz_teixeira/</link>
+      <link>https://sasuke1964.github.io/profiles/renata_cruz_teixeira/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/renata_cruz_teixeira/</guid>
+      <guid>https://sasuke1964.github.io/profiles/renata_cruz_teixeira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serhat Arslan</title>
-      <link>http://example.org/profiles/serhat_arslan/</link>
+      <link>https://sasuke1964.github.io/profiles/serhat_arslan/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/serhat_arslan/</guid>
+      <guid>https://sasuke1964.github.io/profiles/serhat_arslan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen Ibanez</title>
-      <link>http://example.org/profiles/stephen_ibanez/</link>
+      <link>https://sasuke1964.github.io/profiles/stephen_ibanez/</link>
       <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
       
-      <guid>http://example.org/profiles/stephen_ibanez/</guid>
+      <guid>https://sasuke1964.github.io/profiles/stephen_ibanez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://sasuke1964.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://sasuke1964.github.io/posts/my-first-post/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://sasuke1964.github.io/posts/my-second-post/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://sasuke1964.github.io/posts/my-second-post/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>Post 3</title>
-      <link>http://example.org/posts/post-3/</link>
+      <link>https://sasuke1964.github.io/posts/post-3/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/post-3/</guid>
+      <guid>https://sasuke1964.github.io/posts/post-3/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>Post 4</title>
-      <link>http://example.org/posts/post-4/</link>
+      <link>https://sasuke1964.github.io/posts/post-4/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/post-4/</guid>
+      <guid>https://sasuke1964.github.io/posts/post-4/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>Post 5</title>
-      <link>http://example.org/posts/post-5/</link>
+      <link>https://sasuke1964.github.io/posts/post-5/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/post-5/</guid>
+      <guid>https://sasuke1964.github.io/posts/post-5/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>Post 6</title>
-      <link>http://example.org/posts/post-6/</link>
+      <link>https://sasuke1964.github.io/posts/post-6/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/post-6/</guid>
+      <guid>https://sasuke1964.github.io/posts/post-6/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
     <item>
       <title>Post 7</title>
-      <link>http://example.org/posts/post-7/</link>
+      <link>https://sasuke1964.github.io/posts/post-7/</link>
       <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
       
-      <guid>http://example.org/posts/post-7/</guid>
+      <guid>https://sasuke1964.github.io/posts/post-7/</guid>
       <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
     </item>
     
