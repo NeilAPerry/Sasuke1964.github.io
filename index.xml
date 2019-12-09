@@ -6,9 +6,190 @@
     <description>Recent content on McKeown Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2019 10:10:27 -0700</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bruce Spang</title>
+      <link>http://example.org/profiles/bruce_spang/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/bruce_spang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catalin Voss</title>
+      <link>http://example.org/profiles/catalin_voss/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/catalin_voss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenny Hong</title>
+      <link>http://example.org/profiles/jenny_hong/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/jenny_hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://example.org/people/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/people/</guid>
+      <description>Students:  Jenny Hong Research Interests: NLP
+Hobbies: Sports
+jyunhong@stanford.edu
+See Profile    Stanford Profile LinkedIn Personal Site    Stephen Ibanez Research Interests: Networking
+Hobbies: Sports
+person@stanford.edu
+   Stanford Profile LinkedIn Personal Site    Catalin Voss Research Interests: NLP
+Hobbies: Sports
+catalin@stanford.edu
+   Stanford Profile LinkedIn Personal Site    Bruce Spang Research Interests: Networking
+Hobbies: Sports
+bspang@stanford.edu</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://example.org/projects/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/projects/</guid>
+      <description>OpenFlow OpenFlow is an open standard designed to greatly enhance networks’ flexibility. We are using OpenFlow to explore ways to safely conduct networking research in production networks, develop mobility managers for today’s increasingly mobile life, and even save power in energy-hungry data center networks.
+    POMI POMI seeks to break down barriers to a truly programmable and open mobile Internet of tomorrow. POMI is a multi-group project, and our contribution is a flexible networking substrate.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications_date/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/publications_date/</guid>
+      <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
+Broadly speaking, the categories near the top of the list are of more current interest.
+Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications_topic/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/publications_topic/</guid>
+      <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
+Broadly speaking, the categories near the top of the list are of more current interest.
+Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://example.org/publications_type/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/publications_type/</guid>
+      <description>The following papers have been categorized into several areas. Within each area, papers are arranged in reverse chronological order (i.e. most recent first).
+Broadly speaking, the categories near the top of the list are of more current interest.
+Inevitably, the categorization is not perfect. Some papers belong in more than one area, others belong in none. If you can come up with a better way to categorize them, then let me know.</description>
+    </item>
+    
+    <item>
+      <title>Renata Cruz Teizeira</title>
+      <link>http://example.org/profiles/renata_cruz_teixeira/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/renata_cruz_teixeira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serhat Arslan</title>
+      <link>http://example.org/profiles/serhat_arslan/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/serhat_arslan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Ibanez</title>
+      <link>http://example.org/profiles/stephen_ibanez/</link>
+      <pubDate>Mon, 07 Oct 2019 10:10:27 -0700</pubDate>
+      
+      <guid>http://example.org/profiles/stephen_ibanez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>Post 3</title>
+      <link>http://example.org/posts/post-3/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/post-3/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>Post 4</title>
+      <link>http://example.org/posts/post-4/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/post-4/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>Post 5</title>
+      <link>http://example.org/posts/post-5/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/post-5/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>Post 6</title>
+      <link>http://example.org/posts/post-6/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/post-6/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
+    
+    <item>
+      <title>Post 7</title>
+      <link>http://example.org/posts/post-7/</link>
+      <pubDate>Sun, 06 Oct 2019 12:54:04 -0700</pubDate>
+      
+      <guid>http://example.org/posts/post-7/</guid>
+      <description>Cupiditate ut doloribus eveniet ratione reiciendis libero minus. Aut nihil veritatis aperiam reprehenderit ut sit. Nihil reiciendis quia qui vero. Aliquid veniam doloribus eligendi esse illum eveniet.</description>
+    </item>
     
   </channel>
 </rss>
